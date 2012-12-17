@@ -6,7 +6,7 @@ with:
 	<YEAR> = 2010
 
 --
-This project uses jung2 source code which can be found in http://jung.sourceforge.net/. Both are licensed under BSD license. For more details see http://jung.sourceforge.net/license.txt. Non-jung2 files(written by me) included in folders graphviewer and mathgraph. These files are licensed under BSD license too.
+This project uses jung2 source code which can be found in http://jung.sourceforge.net/. Both are licensed under BSD license. For more details see http://jung.sourceforge.net/license.txt. Non-jung2 files included in folders graphviewer and mathgraph. These files are licensed under BSD license too.
 
 THE SCCFinder LICENSE
 
