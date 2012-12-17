@@ -4,7 +4,7 @@ This project consists of a single application. With this application you can cre
 The application can run under Linux, Windows and other operating systems as long as Java virtual machine is installed.  
  
 A runnable JAR file is provided. In order to run the application you can give the command:
-java -jar SCCFinder.jar (you can also double left click SCCFinder.jar if your operating system is Windows)
+java -jar SCCFinder.jar (you can also double right click SCCFinder.jar if your operating system is Windows)
 
 You can also download and compile the code. 
 javac appLaunch.java 
