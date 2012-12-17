@@ -1,0 +1,16 @@
+Description
+
+This project consists of a single application. With this application you can create a directed graph and find its strongly connected components via a user-friendly graphical interface (the vertices of different strongly connected components are drawn in different colors).
+The application can run under Linux, Windows and other operating systems as long as Java virtual machine is installed.  
+ 
+A runnable JAR file is provided. In order to run the application you can give the command:
+java -jar SCCFinder.jar (you can also double left click SCCFinder.jar if your operating system is Windows)
+
+You can also download and compile the code. 
+javac appLaunch.java 
+java appLaunch
+
+The application is written in Java and uses jung2 open source project which can be found in http://jung.sourceforge.net/.
+Jung2 files included in folders cern, corejava, edu, hep, org(with some minor changes) and non-jung2 files included in folders mathgraph and graphviewer.
+
+Author: Voulimeneas Alexios - avoulimeneas@gmail.com
